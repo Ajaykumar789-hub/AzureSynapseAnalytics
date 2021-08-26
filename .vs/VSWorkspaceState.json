@@ -2,8 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\About-SynapseAnalytics",
-    "\\Query"
+    "\\ExternaltablesQueries"
   ],
-  "SelectedNode": "\\Query\\loadCOSMOSDBintoSPARK-DF.SQL",
+  "SelectedNode": "\\ExternaltablesQueries\\CreateExternaltable.sql",
   "PreviewInSolutionExplorer": false
 }
